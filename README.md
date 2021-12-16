@@ -1,2 +1,3 @@
 # hellobaby
-My name is Natpakorn.
+My name is Natpakorn N Nongkhai
+i'm programmer
